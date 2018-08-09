@@ -1,4 +1,4 @@
-/* MIT License
+﻿/* MIT License
 
 Copyright (c) 2018 Biro Eniko
 
@@ -415,7 +415,7 @@ int main(int argc, char *argv[])
     }
     /*
     0 - encode image
-    1 - decome image
+    1 - decode image
     2 - encode and decode image
     3 - encode and decode image with the PackBits algorithm
     */
